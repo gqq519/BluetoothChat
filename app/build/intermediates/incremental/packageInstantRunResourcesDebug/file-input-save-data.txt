@@ -1,0 +1,33 @@
+#Internal package file, do not edit.
+#Mon Apr 24 21:43:46 CST 2017
+2.base=/gqq/BluetoothChat/app/build/intermediates/res/resources-debug.ap_
+5.file=/gqq/BluetoothChat/app/build/intermediates/res/resources-debug.ap_/res/layout/device_list.xml
+5.set=ANDROID_RESOURCE
+3.base=/gqq/BluetoothChat/app/build/intermediates/res/resources-debug.ap_
+6.file=/gqq/BluetoothChat/app/build/intermediates/res/resources-debug.ap_/resources.arsc
+2.set=ANDROID_RESOURCE
+4.base=/gqq/BluetoothChat/app/build/intermediates/res/resources-debug.ap_
+7.file=/gqq/BluetoothChat/app/build/intermediates/res/resources-debug.ap_/res/drawable-hdpi-v4/app_icon.png
+7.set=ANDROID_RESOURCE
+count=10
+0.file=/gqq/BluetoothChat/app/build/intermediates/res/resources-debug.ap_/AndroidManifest.xml
+5.base=/gqq/BluetoothChat/app/build/intermediates/res/resources-debug.ap_
+8.file=/gqq/BluetoothChat/app/build/intermediates/res/resources-debug.ap_/res/layout/main.xml
+4.set=ANDROID_RESOURCE
+6.base=/gqq/BluetoothChat/app/build/intermediates/res/resources-debug.ap_
+1.file=/gqq/BluetoothChat/app/build/intermediates/res/resources-debug.ap_/res/layout/device_name.xml
+9.set=ANDROID_RESOURCE
+9.file=/gqq/BluetoothChat/app/build/intermediates/res/resources-debug.ap_/res/menu/option_menu.xml
+1.set=ANDROID_RESOURCE
+7.base=/gqq/BluetoothChat/app/build/intermediates/res/resources-debug.ap_
+2.file=/gqq/BluetoothChat/app/build/intermediates/res/resources-debug.ap_/res/layout/custom_title.xml
+6.set=ANDROID_RESOURCE
+0.base=/gqq/BluetoothChat/app/build/intermediates/res/resources-debug.ap_
+8.base=/gqq/BluetoothChat/app/build/intermediates/res/resources-debug.ap_
+3.file=/gqq/BluetoothChat/app/build/intermediates/res/resources-debug.ap_/res/layout/message.xml
+3.set=ANDROID_RESOURCE
+1.base=/gqq/BluetoothChat/app/build/intermediates/res/resources-debug.ap_
+9.base=/gqq/BluetoothChat/app/build/intermediates/res/resources-debug.ap_
+4.file=/gqq/BluetoothChat/app/build/intermediates/res/resources-debug.ap_/res/drawable/app_icon.png
+8.set=ANDROID_RESOURCE
+0.set=ANDROID_RESOURCE

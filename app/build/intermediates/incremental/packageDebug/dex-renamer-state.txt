@@ -1,0 +1,7 @@
+#Mon Apr 24 21:43:48 CST 2017
+base.0=/gqq/BluetoothChat/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_0933a11f37b0da0ae28c2f2c2513ead51e619fc6
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/gqq/BluetoothChat/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_713dc96b854a444a4e8e350256bc3eeba2544cc3/classes.dex
+base.1=/gqq/BluetoothChat/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_713dc96b854a444a4e8e350256bc3eeba2544cc3
+file.0=/gqq/BluetoothChat/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_0933a11f37b0da0ae28c2f2c2513ead51e619fc6/classes.dex

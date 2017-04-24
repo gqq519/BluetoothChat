@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/gqq/BluetoothChat/app/build/intermediates/res/merged/debug/layout/custom_title.xml",
+        "source": "/gqq/BluetoothChat/app/src/main/res/layout/custom_title.xml"
+    },
+    {
+        "merged": "/gqq/BluetoothChat/app/build/intermediates/res/merged/debug/layout/device_list.xml",
+        "source": "/gqq/BluetoothChat/app/src/main/res/layout/device_list.xml"
+    },
+    {
+        "merged": "/gqq/BluetoothChat/app/build/intermediates/res/merged/debug/layout/message.xml",
+        "source": "/gqq/BluetoothChat/app/src/main/res/layout/message.xml"
+    },
+    {
+        "merged": "/gqq/BluetoothChat/app/build/intermediates/res/merged/debug/layout/main.xml",
+        "source": "/gqq/BluetoothChat/app/src/main/res/layout/main.xml"
+    },
+    {
+        "merged": "/gqq/BluetoothChat/app/build/intermediates/res/merged/debug/layout/device_name.xml",
+        "source": "/gqq/BluetoothChat/app/src/main/res/layout/device_name.xml"
+    }
+]
